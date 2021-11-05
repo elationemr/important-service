@@ -2,7 +2,7 @@ replicaCount: 1
 image:
   repository: 303970654249.dkr.ecr.us-west-2.amazonaws.com/important-service
   pullPolicy: Always
-  tag: 71320c8329a90cab7e4771daf7bb2f039157411c
+  tag: 0b599ed5af34bf7e9b15f0d591b96e477bec40a5
 serviceName: important-service
 namespace: important-service
 deploymentLabel: dev
