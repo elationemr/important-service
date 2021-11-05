@@ -16,4 +16,4 @@ def get_status():
     description="Get root."
 )
 def get_status():
-    return PlainTextResponse(status_code=200, content="Very Important Stuff")
+    return PlainTextResponse(status_code=200, content="This is on feature branch feature/12345")
